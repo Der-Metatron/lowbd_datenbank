@@ -18,31 +18,31 @@
     {
       "id": 4,
       "name": "citycrusher",
-      "spiel": "Phönix",
+      "spiel": ["Phönix"],
       "score": 159392
     },
     {
       "id": 5,
       "name": "Tortentoni",
-      "spiel": "Farcry",
+      "spiel": ["Farcry"],
       "score": 25114
     },
     {
       "id": 6,
       "name": "Linkslenker",
-      "spiel": "Forza",
+      "spiel": "[Forza]",
       "score": 79325
     },
     {
       "id": 7,
       "name": "Darksniper",
-      "spiel": "Hitman",
+      "spiel": ["Hitman"],
       "score": 99325532
     },
     {
       "id": 8,
       "name": "Ralfrgp",
-      "spiel": "Witcher",
+      "spiel": ["Witcher"],
       "score": 397893
     }
   ]
